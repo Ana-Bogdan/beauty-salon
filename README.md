@@ -6,7 +6,7 @@ This project is a beauty salon reservation system that allows clients to book ap
 ## Entity: Beauty Salon Clients  
 The main entity in this project is Beauty Salon Clients, which represents individuals who book appointments at the salon.  
 
-### Attributes
+### Attributes:
 - Client ID
 - Full Name
 - Phone Number 
